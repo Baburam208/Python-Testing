@@ -1,0 +1,78 @@
+1643732903176	geckodriver	INFO	Listening on 127.0.0.1:64616
+1643732906280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64617" "-no-remote" "-profile" "C:\\Users\\BABURA~1\\AppData\\Local\\Temp\\rust_mozprofileVfpeDu"
+1643732908575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Baburam Chaudhary\\AppData\\Local\\Temp\\rust_mozprofileVfpeDu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64617/devtools/browser/f540660e-25fd-4ae1-b404-9dd1f99d8b47
+1643732916311	Marionette	INFO	Listening on port 59874
+1643732916727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643732946313	Marionette	INFO	Stopped listening on port 59874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643732950211	geckodriver	INFO	Listening on 127.0.0.1:59935
+1643732953288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59936" "-no-remote" "-profile" "C:\\Users\\BABURA~1\\AppData\\Local\\Temp\\rust_mozprofileHiznmA"
+1643732953985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Baburam Chaudhary\\AppData\\Local\\Temp\\rust_mozprofileHiznmA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59936/devtools/browser/40fc5e19-5884-4686-8355-61b1d44f9b41
+1643732958886	Marionette	INFO	Listening on port 59942
+1643732959105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643733333301	Marionette	INFO	Stopped listening on port 59942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 37960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+643733328417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Baburam Chaudhary\\AppData\\Local\\Temp\\rust_mozprofileWE3T2e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60016/devtools/browser/410a4cc6-4fa2-483e-9068-098aa428fb27
+1643733334565	Marionette	INFO	Listening on port 60021
+1643733334791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643733343827	Marionette	INFO	Stopped listening on port 60021
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643733347999	geckodriver	INFO	Listening on 127.0.0.1:60061
+1643733351095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60062" "-no-remote" "-profile" "C:\\Users\\BABURA~1\\AppData\\Local\\Temp\\rust_mozprofileHov2xk"
+1643733351734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Baburam Chaudhary\\AppData\\Local\\Temp\\rust_mozprofileHov2xk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60062/devtools/browser/ce49c87c-46ad-4286-9d45-0a2ab5482461
+1643733356935	Marionette	INFO	Listening on port 60068
+1643733357417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643733440088	Marionette	INFO	Stopped listening on port 60068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60128" "-no-remote" "-profile" "C:\\Users\\BABURA~1\\AppData\\Local\\Temp\\rust_mozprofileumOyfo"
+1643733433221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Baburam Chaudhary\\AppData\\Local\\Temp\\rust_mozprofileumOyfo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60128/devtools/browser/4045a6ee-7440-4dc5-af8a-30d224f8e5f8
+1643733439334	Marionette	INFO	Listening on port 60133
+1643733439549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643736491896	Marionette	INFO	Stopped listening on port 60133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61877" "-no-remote" "-profile" "C:\\Users\\BABURA~1\\AppData\\Local\\Temp\\rust_mozprofileeO5Xhv"
+1643734582831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Baburam Chaudhary\\AppData\\Local\\Temp\\rust_mozprofileeO5Xhv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61877/devtools/browser/6cec62a6-be39-43ef-94b8-8263050d4257
+1643734588622	Marionette	INFO	Listening on port 61882
+1643734589569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643734590778	Marionette	INFO	Stopped listening on port 61882
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+[Parent 48160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2543\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
